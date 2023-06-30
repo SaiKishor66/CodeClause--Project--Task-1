@@ -1,0 +1,14 @@
+.left-pane{
+    background-color: #46949b;
+    min-height: 80vh;
+}
+#taskInput{
+    border: 0px;
+    outline: none;
+    font-weight: bold;
+    color:gray;
+
+}
+.checkbox{
+   color: #972a2a;
+}
